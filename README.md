@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Shaqiloheal (Warren)
+
+- 🔭 I’m currently working on my BSc Computing Science Degree @ University of Aberdeen
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with Python, Git and Github
+- 💬 Ask me about my previous career as a Subsea Technician
+- 📫 How to reach me: Linkedin
+- ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have excepreience in mechanical and electrical engineering.
 
 <!--
 **Shaqiloheal/Shaqiloheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
