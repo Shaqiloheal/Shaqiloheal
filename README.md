@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Python, Git and Github
 - 💬 Ask me about my previous career as a Subsea Technician
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have excepreience in mechanical and electrical engineering.
+- ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have experience in mechanical and electrical engineering.
 
 <!--
 **Shaqiloheal/Shaqiloheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
