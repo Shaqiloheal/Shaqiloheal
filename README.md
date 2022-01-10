@@ -3,9 +3,11 @@
 - 🔭 I’m currently working on my BSc Computing Science Degree @ University of Aberdeen
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python, Git and Github
+- 🕹 My secret ambition is create my first NES rom from 6502 assembly code.
 - 💬 Ask me about my previous career as a Subsea Technician
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have experience in mechanical and electrical engineering due to 13 years working in the oil & gas sector where I have vast working knowledge of subsea trees and wellhead systems.
+- 
 
 <!--
 **Shaqiloheal/Shaqiloheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
