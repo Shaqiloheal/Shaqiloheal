@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shaqiloheal (Warren)
 
 - 🔭 I’m currently working on my BSc Computing Science Degree @ University of Aberdeen
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently learning Python3, JavaScript/CSS/HTML, Java and SQL
 - 🤔 I’m looking for help with Python, Git and Github
 - 🕹 My secret ambition is to create my first NES rom using 6502 assembly code.
 - 💬 Ask me about my previous career as a Subsea Technician
