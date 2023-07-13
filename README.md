@@ -8,6 +8,9 @@
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have experience in mechanical and electrical engineering due to 13 years working in the oil & gas sector where I have vast working knowledge of subsea trees and wellhead systems.
 
+- ![Codewars Badge](https://www.codewars.com/users/Shaqiloheal/badges/large)
+
+
 <!--
 **Shaqiloheal/Shaqiloheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
