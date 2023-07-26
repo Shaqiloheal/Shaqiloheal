@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have experience in mechanical and electrical engineering due to 13 years working in the oil & gas sector where I have vast working knowledge of subsea trees and wellhead systems.
 
 ![Codewars Badge](https://www.codewars.com/users/Shaqiloheal/badges/large)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ad18a114678473bb617e44?variant=dark)](https://roadmap.sh)
 
 
 <!--
