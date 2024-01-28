@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shaqiloheal (Warren)
+### Hi there 👋 I'm Shaqiloheal
 
 - 🔭 I’m a DevOps Engineering Intern in the Oil & Gas / Renewables industry.
 - 🌱 I’m currently learning Agile, Powershell, SQL, Advanced Python
