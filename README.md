@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Agile, Powershell, SQL, Advanced Python
 - 💬 Ask me about my previous career as a Subsea Technician
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: I restarted my career at 32 to become a software developer.  I have experience in mechanical and electrical engineering due to 13 years working in the oil & gas sector where I have vast working knowledge of subsea trees and wellhead systems.
+- ⚡ Fun fact: I've started to learn pyGame to learn how to make my own games.  Check out my final-runner.  I continuously update this basic game to master my python skills.
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ad18a114678473bb617e44?variant=dark" alt="roadmap.sh"/></a>
 
