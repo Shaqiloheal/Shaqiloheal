@@ -6,7 +6,7 @@
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I've started to learn pyGame to learn how to make my own games.  Check out my final-runner.  I continuously update this basic game to master my python skills.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,c++,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,powershell,pygame)](https://skillicons.dev)
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ad18a114678473bb617e44?variant=dark" alt="roadmap.sh"/></a>
 
 ![Codewars Badge](https://www.codewars.com/users/Shaqiloheal/badges/large)
