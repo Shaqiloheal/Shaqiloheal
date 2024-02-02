@@ -9,7 +9,9 @@
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ad18a114678473bb617e44?variant=dark" alt="roadmap.sh"/></a>
 
 ![Codewars Badge](https://www.codewars.com/users/Shaqiloheal/badges/large)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,powershell,gamemakerstudio)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,powershell,gamemakerstudio)](https://skillicons.dev)
+
 
 
 <!--
