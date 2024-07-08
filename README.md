@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shaqiloheal
 
-- 🔭 I’m a DevOps Engineering Intern in the Oil & Gas / Renewables industry.
-- 🌱 I’m currently learning Agile, Powershell, SQL, Advanced Python
+- 🔭 I’m a Automation Engineer in the Oil & Gas / Renewables industry.
+- 🌱 I’m currently learning Allen-Bradley PLCs, Honeywell Safety Manager SC and PLC Programming
 - 💬 Ask me about my previous career as a Subsea Technician
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I've started to learn Pygame and GML (Gamemaker Studio) to learn how to make my own games.  Check out my final-runner.  I continuously update this basic game to master my python skills.
